@@ -1,2 +1,0 @@
-# kudosCards
-Kudos Cards
